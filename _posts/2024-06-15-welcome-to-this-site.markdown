@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Harmonized MRI!" 
+title:  "Pulseq course Nov 2023" 
 date:   2024-06-15 10:14:31 -0400
 ---
 
-This is a post
+The course was great
