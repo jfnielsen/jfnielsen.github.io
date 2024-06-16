@@ -27,11 +27,8 @@
   description: "MATLAB code to create diffusion EPI sequences in Pulseq, and image reconstruction code."
 
 - name: "Flux Capacitor"
-  url: "https://pulseq.github.io/"
+  url: "https://en.wikipedia.org/wiki/DeLorean_time_machine#Flux_capacitor"
   type: "tool"
   description: "Generates the 1.21 gigawatts of power needed for time travel"
+  img: "../assets/logos/FluxCapacitor.png"
 
-- name: "Open Robot"
-  url: "https://pulseq.github.io/"
-  type: "tool"
-  description: "Cleans your dishes and washes your hands"
