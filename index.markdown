@@ -15,7 +15,7 @@ It is meant to supplement the official Pulseq site and repository,
 
 We would love for you to **contribute your own project to this site**! 
 To do so, fill out this Google form (TOOD) and we will add the information to the 
-[Tools](/tools/) and/or [Sequences](/sequences) sections on this site.
+[Tools](/tools/) and/or [Sequences](/sequences/) sections on this site.
 
 
 Also check out the [News](/news/) section for the occasional blog post.
