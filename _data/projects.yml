@@ -1,0 +1,27 @@
+- name: "Pulseq"
+  url: "https://pulseq.github.io/"
+  type: "tool"
+  description: "Official Pulseq specification and MATLAB sequence design toolbox."
+  img: "../assets/logos/Pulseq.png"
+
+- name: "pyPulseq"
+  url: "https://github.com/imr-framework/pypulseq"
+  type: "tool"
+  description: "Python implementation of the Pulseq sequence design toolbox."
+  img: "https://github.com/imr-framework/pypulseq/blob/dev/logo.png"
+  img: "../assets/logos/pyPulseq.png"
+
+- name: "Pulseq on GE"
+  url: "https://toppemri.github.io/"
+  type: "tool"
+  description: "GE interpreter and associated MATLAB toolbox."
+
+- name: "SMS-EPI fMRI"
+  url: "https://github.com/HarmonizedMRI/SMS-EPI"
+  type: "sequence"
+  description: "SMS-EPI Pulseq sequence and image reconstruction code."
+
+- name: "gSlider diffusion"
+  url: "https://github.com/HarmonizedMRI/Pulseq-diffusion"
+  type: "sequence"
+  description: "MATLAB code to create diffusion EPI sequences in Pulseq, and image reconstruction code."
