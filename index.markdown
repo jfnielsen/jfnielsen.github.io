@@ -7,9 +7,14 @@ layout: home
 
 <h1> Welcome to the Pulseq project list! </h1>
 
-This site contains a list of vendor-agnostic MRI
-pulse sequences focusing on Pulseq but open to other platforms,
-and news/blog posts related to recent and upcoming Pulseq developments.
+This site provides a list of 
+community-developed MRI pulse sequence and development tools
+based on the Pulseq file format.
+It is meant to supplement the official Pulseq site and repository, 
+[https://pulseq.github.io/](https://pulseq.github.io/).
+
+We would love for you to **contribute your own project to this site**! 
+To do so, fill out this Google form (TOOD) and we will add the information to the 'Tools' and/or 'Sequences' sections on this site.
 
 Todo: Google submission form
 
