@@ -9,7 +9,7 @@ layout: home
 
 This site provides a list of 
 community-developed MRI pulse sequence and development tools
-based on the Pulseq file format.
+based on the Pulseq file format for vendor-agnostic MRI.
 It is meant to supplement the official Pulseq site and repository, 
 [https://pulseq.github.io/](https://pulseq.github.io/).
 
