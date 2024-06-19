@@ -4,23 +4,37 @@ title: Projects
 permalink: /projects/
 ---
 
-{% assign tools = site.data.projects | where: "type", "tool" %} 
-{% assign sequences = site.data.projects | where: "type", "sequence" %}
-{% assign allprojects = site.data.projects %} 
 
-<h2> Development tools </h2>
+<h3> <u> Pulseq interpreters </u> </h3>
 <div class="container">
-    {% for project in tools %}
-        {% include project.html %}
+    {% for project in site.data.projects %}
+        {% if project.category contains "Pulseq interpreter" %}
+            {% include project.html %}
+        {% endif%}
     {% endfor %}
 </div>
 
 <br>
-<br>
-<h2> Pulse sequences </h2>
+<h3> <u> Pulse sequences and sequence development tools </u> </h3>
 <div class="container">
-    {% for project in sequences %}
-        {% include project.html %}
+    {% for project in site.data.projects %}
+        {% if project.category contains "Sequence programming" %}
+            {% include project.html %}
+        {% endif%}
     {% endfor %}
 </div>
+
+
+<br>
+<h3> <u> Image reconstruction </u> </h3>
+<div class="container">
+    {% for project in site.data.projects %}
+        {% if project.category contains "Image reconstruction" %}
+            {% include project.html %}
+        {% endif%}
+    {% endfor %}
+</div>
+
+<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihbeQVhsdXR-DR-NmH47bP7vMPda_eimgw8BsU0gKQaa0_LZHY88DFh1ZMXmKFDE1Zn4Af6MNmpAo0EpIG8ma5Lw-G5IxDyPwiU=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbeQVhsdXR-DR-NmH47bP7vMPda_eimgw8BsU0gKQaa0_LZHY88DFh1ZMXmKFDE1Zn4Af6MNmpAo0EpIG8ma5Lw-G5IxDyPwiU=s1600-rw-v1" /> </a>
+
 
