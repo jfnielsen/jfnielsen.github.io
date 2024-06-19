@@ -18,6 +18,10 @@ To do so, fill out this
 [Google form](https://forms.gle/y6FwNjr2GR6E6Dg96)
 and we will add the information to this site.
 
+We invite projects that support any part of an open, vendor-agnostic MRI workflow:
+
+<br>
+<img src="/assets/hmri.png" alt="HarmonizedMRI"/> <!-- width="800"/> -->
 
 <!-- 
 {% for post in site.pages %}

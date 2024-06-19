@@ -17,8 +17,6 @@ for dissemination of portable fMRI sequences, and an
 [NIH R01 grant](https://reporter.nih.gov/search/Rc6iON3j_UieHv9Rbv10uQ/project-details/10704747)
 to develop harmonized neuroimaging sequences for diffusion imaging and quantitative relaxation parameter mapping.
 
-<img src="/assets/hmri.jpg" alt="HarmonizedMRI" width="800"/>
-
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
