@@ -13,7 +13,10 @@ and we will help you get started.
 
 For more information, see the following talk and flyer:
 
+<iframe src="https://www.youtube.com/embed/b5Il_A_et8o?si=z4qR-oA8bibG_uot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--
 <iframe width="600" height="338" src="https://www.youtube.com/embed/b5Il_A_et8o?si=z4qR-oA8bibG_uot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
 
 <img src="/assets/banner.png" alt="Harmonized fMRI project overview" />
 
