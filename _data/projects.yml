@@ -8,7 +8,6 @@
   url: "https://github.com/imr-framework/pypulseq"
   type: "tool"
   description: "Python implementation of the Pulseq sequence design toolbox."
-  img: "https://github.com/imr-framework/pypulseq/blob/dev/logo.png"
   img: "../assets/logos/pyPulseq.png"
 
 - name: "Pulseq on GE"
@@ -21,8 +20,11 @@
   type: "sequence"
   description: "SMS-EPI Pulseq sequence and image reconstruction code."
 
-- name: "gSlider diffusion"
+- name: "Pulseq-diffusion"
+  contact: "qliu30@mgh.harvard.edu"
   url: "https://github.com/HarmonizedMRI/Pulseq-diffusion"
   type: "sequence"
-  description: "MATLAB code to create diffusion EPI sequences in Pulseq, and image reconstruction code."
+  category: "Sequence programming, Image reconstruction, Diffusion"
+  description: "MATLAB code to create diffusion EPI sequences to be run using the Pulseq sequence programming environment"
+  img: "../assets/logos/pyPulseq.png"
 
