@@ -16,11 +16,8 @@ It is meant to supplement the official Pulseq site and repository,
 We would love for you to **contribute your own project to this site**! 
 To do so, fill out this 
 [Google form](https://forms.gle/y6FwNjr2GR6E6Dg96)
-and we will add the information to the 
-[Projects](/projects/) section on this site.
+and we will add the information to this site.
 
-
-Also check out the [News](/news/) section for the occasional blog post.
 
 <!-- 
 {% for post in site.pages %}
