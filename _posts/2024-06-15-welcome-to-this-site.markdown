@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pulseq course Nov 2023" 
-date:   2024-06-15 10:14:31 -0400
+date:   2023-11-15 10:14:31 -0400
 ---
 
-The course was great
+[https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023](https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023)
